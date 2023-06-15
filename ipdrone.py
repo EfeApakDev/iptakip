@@ -32,7 +32,7 @@ print (red+"""
 ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
                                                       @apakbilisim
 """+red)
-print (lgreen+bold+"         <===[[ Alem Küçüktür İtibar Büyüktür ]]===> \n"+clear)
+print (lgreen+bold+"  <===[[ Alem Küçüktür İtibar Büyüktür ]]===> \n"+clear)
 print (yellow+bold+"   <---(( YOUTUBE : EFE APAK ))--> \n"+clear)
 
 
