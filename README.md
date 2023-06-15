@@ -21,6 +21,7 @@
 * `pip install lolcat`
 * `pip install requests`
 * `git clone https://github.com/EfeApakDev/iptakip`
+* `cd iptakip`
 * `ls`
 * `cd ipdrone`
 * `ls`
